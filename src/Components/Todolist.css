@@ -1,0 +1,21 @@
+.list {
+  font-size: 1.2em;
+  margin: 0% 10%;
+}
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  border: solid;
+  border-radius: 5px;
+  padding: 1%;
+  margin: 2%;
+  width: 80%;
+}
+button {
+  border: none;
+  font-weight: bold;
+  background-color: white;
+}
+.list button:hover {
+  color: red;
+}
